@@ -2,6 +2,8 @@
 
 > 당신의 불안, 다음 단계 지능의 설계도
 
+**GitHub**: [https://github.com/demodevHaqu/mindmirror](https://github.com/demodevHaqu/mindmirror)
+
 ## 프로젝트 개요
 
 Mindmirror의 핵심 컨셉(5가지 인지 패턴, 불안/안정 아트, 변환 메시지, 사유 확장형 질문)을 웹으로 구현한 MVP입니다.
